@@ -1,5 +1,9 @@
-# adt
-Talk at LVFPUG about ADTs
+# Why Algebraic Data Types are algebraic
+
+Note, this talk is completely inspired by Chris Taylor. See his blog posts and presentation below for more fun.
+
+Talk at [LVFPUG](http://www.meetup.com/las-vegas-functional-programming/events/224571277/) on 2015-09-10 about ADTs.
+
 
 # Slides
 
